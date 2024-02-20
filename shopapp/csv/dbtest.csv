@@ -1,0 +1,101 @@
+PRODUCT_ID,PRODUCT_NAME,PRODUCT_CATEGORY,COST_PRICE,SELLING_PRICE,SALES_DATA,QUANTITY_SOLD,SEASON,PROFIT_MARGIN,RATING,SPACE_OCCUPIED,NO_OF_DAYS_LEFT
+1,SmartFit Fitness Tracker,Electronics,$89.99,$109.99,35,300,Fall,18%,4.1,20,10
+2,CozyDreams Pillow,Bedding,$29.99,$39.99,60,800,Winter,25%,4.3,30,25
+3,FoodFresh Fridge,Appliances,$799.99,$999.99,10,50,Summer,20%,4.8,200,400
+4,AquaSplash Water Bottle,Sports,$12.49,$17.99,80,1500,Spring,30%,4.5,10,30
+5,SwiftSlice Vegetable Chopper,Kitchen Tools,$19.99,$24.99,45,600,Fall,20%,4.4,40,15
+6,Sparkle Clean Detergent,Household,$8.49,$12.23,50,5000,Winter,30%,4,50,20
+7,PowerBrew Coffee Maker,Kitchen Appliances,$54.99,$67.51,20,100,Summer,20%,4.5,150,30
+8,FreshGlow Face Cream,Beauty,$16.99,$22.51,70,2000,Spring,25%,4.2,15,8
+9,QuickFix Sewing Kit,Crafts,$7.99,$12.99,25,400,Winter,38%,4,5,12
+10,PetPals Cat Tree,Pet Supplies,$49.99,$69.99,15,100,Summer,,3.9,200,9
+11,SunShield Sunglasses,Fashion Accessories,$19.99,$29.99,50,200,Summer,35%,4.7,5,15
+12,EcoGlow LED Light Bulbs,Home Improvement,$8.99,$14.99,40,300,Winter,40%,4.5,10,20
+13,PowerUp Power Bank,Electronics,$24.99,$34.99,30,1000,Fall,30%,4.2,3,10
+14,SleepWell Mattress Topper,Bedding,$59.99,$89.99,20,50,Spring,50%,4.8,100,5
+15,NatureBlend Organic Tea,Grocery,$9.99,$14.99,100,800,Summer,33%,4.6,10,30
+16,CleanSweep Broom,Cleaning Supplies,$4.99,$7.99,75,1200,Winter,38%,4.3,20,15
+17,Zenith Yoga Mat,Fitness,$29.99,$39.99,45,300,Fall,25%,4.4,8,20
+18,CookMaster Cookware Set,Kitchenware,$149.99,$199.99,10,30,Spring,30%,4.7,300,25
+19,SparkleLite Jewelry Cleaner,Jewelry,$14.99,$24.99,20,200,Summer,40%,4.9,5,8
+20,ComfyCoat Dog Jacket,Pet Supplies,$39.99,$49.99,30,150,Winter,20%,4.2,50,15
+21,StyleSense Fashion Scarf,Fashion Accessories,$14.99,$24.99,40,300,Fall,40%,4.5,10,15
+22,FitFuel Protein Powder,Health & Wellness,$29.99,$39.99,50,500,Winter,25%,4.4,20,20
+23,AquaPure Water Filter,Home Appliances,$39.99,$49.99,30,200,Summer,20%,4.6,15,30
+24,BeautyGlow Makeup Palette,Beauty,$19.99,$29.99,60,1000,Spring,33%,4.3,25,10
+25,TechWave Bluetooth Speaker,Electronics,$59.99,$79.99,25,400,Fall,25%,4.7,30,25
+26,SleepEase Sleep Mask,Personal Care,$9.99,$14.99,70,800,Winter,33%,4.8,10,15
+27,FreshHarvest Fruit Basket,Grocery,$19.99,$29.99,40,300,Summer,33%,4.5,20,20
+28,UltraClean Laundry Detergent,Household,$12.99,$19.99,55,1200,Fall,35%,4.4,15,10
+29,SparkleBrite Toothpaste,Personal Care,$4.99,$7.99,90,1500,Winter,38%,4.6,5,30
+30,WonderGrip Garden Gloves,Outdoor & Garden,$8.99,$14.99,25,200,Summer,40%,4.2,8,8
+31,TurboCharge Phone Charger,Electronics,$14.99,$24.99,75,1000,Spring,40%,4.7,12,15
+32,LunaLuxe Moon Lamp,Home Decor,$24.99,$34.99,20,300,Winter,30%,4.5,10,20
+33,AquaFlex Shower Head,Bathroom Accessories,$29.99,$39.99,30,500,Fall,25%,4.6,15,15
+34,SwiftServe Food Processor,Kitchen Appliances,$89.99,$119.99,15,100,Summer,25%,4.3,25,20
+35,EcoBloom Plant Food,Gardening,$7.99,$12.99,80,1500,Spring,38%,4.5,10,10
+36,PowerPulse Massager,Health & Wellness,$49.99,$69.99,35,300,Fall,28%,4.2,20,15
+37,NatureFresh Air Purifier,Home Appliances,$99.99,$149.99,10,50,Winter,33%,4.7,50,25
+38,ShineGuard Car Wax,Automotive,$19.99,$29.99,50,600,Summer,33%,4.4,15,30
+39,FreshStart Breakfast Cereal,Grocery,$3.99,$6.99,150,2000,Spring,43%,4.6,5,5
+40,CozyCushion Seat Cushion,Home & Living,$24.99,$34.99,25,300,Fall,29%,4.3,15,20
+41,AquaFlow Watering Can,Gardening,$7.99,$12.99,35,200,Spring,38%,4.2,15,30
+42,SparkleScent Air Freshener,Home Fragrance,$3.49,$5.99,50,500,Summer,42%,4.5,5,20
+43,FitFlex Exercise Bands,Fitness,$10.99,$14.99,20,1000,Fall,27%,4.3,10,10
+44,StyleStash Jewelry Box,Jewelry,$29.99,$39.99,15,50,Winter,25%,4,5,5
+45,EcoSparkle Dish Soap,Cleaning Supplies,$2.99,$4.99,80,1500,Spring,40%,4.7,8,20
+46,CleanSweep Vacuum Cleaner,Cleaning Supplies,$89.99,$129.99,10,20,Winter,30%,4.5,300,30
+47,SunCatch Sunglasses Holder,Fashion Accessories,$14.99,$19.99,40,300,Summer,25%,4.2,5,15
+48,PowerHike Hiking Boots,Footwear,$69.99,$89.99,25,100,Fall,22%,4.1,10,20
+49,ZenithFit Yoga Pants,Apparel,$19.99,$29.99,60,800,Spring,33%,4.6,15,30
+50,NatureBlend Protein Bars,Health & Wellness,$1.99,$2.99,200,5000,Summer,50%,4.8,20,40
+51,SparkleCleanse Face Mask,Beauty,$5.49,$8.99,70,2000,Winter,39%,4.4,5,10
+52,SmartServe Salad Spinner,Kitchen Tools,$14.99,$24.99,30,300,Spring,40%,4.3,10,15
+53,FreshBloom Flower Bouquet,Home Decor,$24.99,$34.99,40,150,Fall,29%,4.5,25,30
+54,AquaQuench Water Bottle,Sports,$9.99,$14.99,50,800,Summer,33%,4.2,15,25
+55,SwiftServe Ice Cream Maker,Kitchen Appliances,$49.99,$69.99,20,1000,Winter,40%,4.7,100,20
+56,QuickCharge Phone Stand,Electronics,$7.99,$12.99,60,500,Spring,38%,4.6,5,10
+57,PetPurr Cat Bed,Pet Supplies,$24.99,$34.99,30,200,Fall,40%,4.8,20,15
+58,SunSafe Sunscreen,Beauty,$8.99,$12.99,80,1500,Summer,31%,4.5,10,30
+59,TechTrend Laptop Sleeve,Electronics,$14.99,$19.99,50,300,Winter,25%,4,20,20
+60,SleepBliss Eye Mask,Bedding,$4.99,$8.99,90,2000,Spring,44%,4.9,5,40
+61,FreshTaste Salad Bowl,Kitchenware,$12.99,$19.99,25,300,Summer,35%,4.2,10,20
+62,UltraDry Towel Set,Bath & Towels,$24.99,$39.99,30,500,Fall,37%,4.5,15,25
+63,SparkleBright Teeth Whitener,Health & Wellness,$8.99,$14.99,40,800,Spring,40%,4.6,5,30
+64,WonderWash Laundry Soap,Cleaning Supplies,$5.99,$9.99,60,1000,Winter,40%,4.7,8,20
+65,CozyNest Dog Bed,Pet Supplies,$34.99,$49.99,20,200,Summer,30%,4,25,15
+66,AquaFresh Water Filter,Kitchen Appliances,$29.99,$49.99,15,300,Fall,40%,4.3,20,10
+67,EcoFriendly Cleaning Wipes,Cleaning Supplies,$3.99,$7.99,70,1500,Spring,50%,4.8,5,30
+68,PowerGlow LED Desk Lamp,Lighting,$19.99,$29.99,25,400,Winter,33%,4.1,15,20
+69,NaturePure Essential Oils,Health & Wellness,$14.99,$24.99,50,600,Summer,40%,4.5,10,25
+70,ShineBright Car Polish,Automotive,$6.99,$12.99,80,2000,Spring,46%,4.9,30,40
+71,FreshFeel Hand Soap,Bath & Body,$2.99,$5.99,90,3000,Summer,50%,5,8,35
+72,StyleShade Sunglasses,Fashion Accessories,$19.99,$29.99,45,800,Fall,33%,4.4,10,15
+73,FitForm Exercise Mat,Fitness,$19.99,$29.99,35,700,Winter,33%,4.3,15,20
+74,AquaBloom Plant Waterer,Gardening,$9.99,$14.99,55,1000,Spring,33%,4.2,5,25
+75,SparkleSoothe Lip Balm,Beauty,$4.99,$8.99,65,1500,Summer,44%,4.7,20,30
+76,WonderWorks Multi-Tool,Tools,$14.99,$24.99,20,200,Fall,40%,4.5,25,10
+77,TurboClean Carpet Cleaner,Cleaning Supplies,$39.99,$59.99,30,500,Winter,33%,4.4,50,15
+78,LunaGlow Night Light,Home Decor,$7.99,$12.99,75,1200,Summer,38%,4.8,10,30
+79,AquaChill Cooler Bag,Outdoor & Travel,$19.99,$29.99,10,100,Spring,33%,4,15,5
+80,SwiftSlice Fruit Peeler,Kitchen Tools,$4.99,$9.99,40,800,Fall,50%,4.6,8,25
+81,EcoCare Laundry Detergent,Cleaning Supplies,$12.99,$19.99,25,300,Winter,35%,4.3,20,10
+82,PowerUp Wireless Charger,Electronics,$19.99,$29.99,55,1500,Spring,33%,4.7,10,30
+83,NatureGlow Vitamin C Serum,Beauty,$9.99,$17.99,45,600,Summer,44%,4.5,5,20
+84,ShineGuard Car Wash,Automotive,$6.99,$12.99,60,1000,Fall,48%,4.8,25,25
+85,FreshTaste Spice Rack,Kitchenware,$14.99,$24.99,35,400,Winter,40%,4.4,15,15
+86,CozyWarm Throw Blanket,Home Decor,$29.99,$49.99,20,300,Summer,40%,4.2,20,20
+87,AquaSprout Plant Starter Kit,Gardening,$19.99,$29.99,30,200,Fall,33%,4.6,5,10
+88,SparkleSuds Dishwasher Detergent,Cleaning Supplies,$8.99,$14.99,50,1000,Spring,40%,4.7,10,30
+89,SmartStyle Hair Dryer,Beauty,$49.99,$69.99,40,800,Summer,28%,4.3,25,25
+90,SleepTight Bed Sheets,Bedding,$19.99,$29.99,70,1200,Fall,33%,4.5,30,20
+91,FreshFusion Fruit Infuser Bottle,Kitchenware,$7.99,$12.99,30,500,Winter,38%,4.8,15,15
+92,UltraSoft Bath Towels,Bath & Towels,$19.99,$29.99,45,800,Spring,33%,4.2,20,30
+93,SparkleGlow Body Lotion,Beauty,$12.99,$19.99,60,1000,Summer,35%,4.4,10,25
+94,WonderWash Window Cleaner,Cleaning Supplies,$6.99,$12.99,25,400,Fall,45%,4.9,8,20
+95,CozyCalm Weighted Blanket,Bedding,$39.99,$59.99,20,200,Winter,33%,4.5,25,10
+96,AquaMist Plant Mister,Gardening,$4.99,$9.99,75,1500,Spring,50%,4.8,5,30
+97,EcoFresh Air Freshener,Home Fragrance,$3.99,$7.99,40,800,Summer,45%,4.6,15,25
+98,PowerMaxx Power Strip,Electronics,$29.99,$49.99,50,1000,Fall,40%,4.3,20,20
+99,NatureBoost Immune Support,Health & Wellness,$14.99,$24.99,30,500,Winter,50%,4.9,25,15
+100,StyleSense Wardrobe Organizer,Home Organization,$34.99,$49.99,60,1000,Spring,35%,4.2,30,30
